@@ -20,7 +20,7 @@ export const projects: Project[] = [
     stack: ["Java 25", "JavaFX", "Maven"],
     path: "JAVA / AppGBib",
     action: "View on GitHub",
-    github: "https://github.com/grigah-coder/Portfolio/tree/main/Projects/JAVA/Library-Management-System",
+    github: "https://github.com/grigah-coder/Portfolio-Projects/tree/main/JAVA/Library-Management-System",
   },
   {
     index: "02",
@@ -31,7 +31,7 @@ export const projects: Project[] = [
     stack: ["Java 25", "JavaFX", "Maven"],
     path: "JAVA / AppMag",
     action: "View on GitHub",
-    github: "https://github.com/grigah-coder/Portfolio/tree/main/Projects/JAVA/Magazine-Catalog-System",
+    github: "https://github.com/grigah-coder/Portfolio-Projects/tree/main/JAVA/Magazine-Catalog-System",
   },
   {
     index: "03",
@@ -42,7 +42,7 @@ export const projects: Project[] = [
     stack: ["C#", "WinForms", "PostgreSQL"],
     path: "C# / ProjectGestionDentaire",
     action: "View on GitHub",
-    github: "https://github.com/grigah-coder/Portfolio/tree/main/Projects/CS/Dental-Clinic-Manager",
+    github: "https://github.com/grigah-coder/Portfolio-Projects/tree/main/CS/Dental-Clinic-Manager",
   },
   {
     index: "04",
@@ -53,7 +53,7 @@ export const projects: Project[] = [
     stack: ["HTML", "CSS", "Bootstrap"],
     path: "WEB / cedoc-porta",
     action: "View on GitHub",
-    github: "https://github.com/grigah-coder/Portfolio/tree/main/Projects/WEB/Doctoral-Studies-Portal",
+    github: "https://github.com/grigah-coder/Portfolio-Projects/tree/main/WEB/Doctoral-Studies-Portal",
   },
   {
     index: "05",
@@ -64,7 +64,7 @@ export const projects: Project[] = [
     stack: ["HTML", "CSS", "JavaScript"],
     path: "WEB / Calculatrice",
     action: "View on GitHub",
-    github: "https://github.com/grigah-coder/Portfolio/tree/main/Projects/WEB/Vanilla-JS-Calculator",
+    github: "https://github.com/grigah-coder/Portfolio-Projects/tree/main/WEB/Vanilla-JS-Calculator",
   },
   {
     index: "06",
@@ -74,6 +74,6 @@ export const projects: Project[] = [
     stack: ["HTML", "CSS"],
     path: "WEB / Burger",
     action: "View on GitHub",
-    github: "https://github.com/grigah-coder/Portfolio/tree/main/Projects/WEB/Restaurant-Landing-Page",
+    github: "https://github.com/grigah-coder/Portfolio-Projects/tree/main/WEB/Restaurant-Landing-Page",
   },
 ];
